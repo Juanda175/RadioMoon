@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.BanRad{
+    
+    width: 100vw;
+    height: 70vh;   
+    background-color: rgb(0, 0, 0);
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
